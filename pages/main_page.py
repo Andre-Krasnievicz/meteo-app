@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime, time
-from skewt_funcs import get_wyoming, plot_T_Td
+from funcs.skewt_funcs import get_wyoming, plot_T_Td
 
 # import locale
 

@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime, time
 import pytz
-from meteograma_funcs import get_data, plot_temp_td
+from funcs.meteograma_funcs import get_data, plot_temp_td
 
 STATIONS = {
     "Cabo Frio":       {"id": "82613", "tz": "America/Sao_Paulo"},
