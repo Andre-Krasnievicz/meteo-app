@@ -1,2 +1,4 @@
 venv/
 __pycache__
+plot_field_mill.py
+plot_estacaomet.py
